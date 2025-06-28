@@ -29,7 +29,6 @@ vim.opt.breakindent = true
 vim.opt.shiftwidth = 2
 vim.opt.tabstop = 2
 vim.opt.wrap = false
-
 vim.opt.splitkeep = "cursor"
 vim.opt.mouse = ""
 vim.opt.clipboard = "unnamedplus"
